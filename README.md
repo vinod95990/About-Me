@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @M.Vinod
-- 👀 I’m interested in Web Development and Competative Programming
+- 👀 I’m interested in Web Development and Competetive Programming
 - 🌱 I’m currently learning Javascript,DOM,React js
 - 💞️ I’m looking to collaborate on Frontend Development
 
